@@ -68,4 +68,19 @@ html {
   justify-content: space-evenly;
 }
 
+.card {
+  width: 30rem;
+  background-color: #a79a2d;
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 1rem 1rem 1rem #000;
+}
+
+.card-img {
+  width: 100%;
+  align-items: center;
+}
+
 /* End of Section 2 */
